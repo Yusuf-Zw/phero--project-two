@@ -1,0 +1,77 @@
+body{
+    font-family: 'Bebas Neue', cursive;
+}
+.container {
+    margin-top: 100px;
+}
+
+h1,h2{
+    font-size: 80px;
+    color:darkcyan;
+}
+.btn-one{
+    background-color: darkslateblue;
+    color: white;
+    margin: 10px 0;
+    border-radius: 9px;
+    padding: 5px 15px ;
+    
+}
+.link-button {
+    font-size: 25px;
+    text-decoration: none;
+    padding: 15px 40px;
+    border-radius: 5px 5px;
+    background: slateblue;
+    color: whitesmoke;
+}
+.btn-two{
+    font-size: 20px;
+    text-decoration: none;
+    padding: 10px 20px;
+    border-radius: 5px 5px;
+    background: slateblue;
+    color: whitesmoke;
+    margin-left: 20px;
+    margin-bottom: 40px;
+}
+
+.card1{
+    padding: 30px 40px;
+    box-shadow: 5px 5px 10px gray;
+
+}
+
+h3{
+    font-size: 40px;
+}
+.items img{
+    
+    border-radius: 20px 20px;
+    padding: 15px 20px;
+    background-color: lightslategray;
+    
+}
+.card{
+    width: 50px;
+    margin: 3%;
+    box-shadow: 5px 5px 10px cornflowerblue;
+    border-radius: 10px 10px;
+
+}
+
+.text-down{
+    color: green;
+    font-size: 40px;
+    float: left;
+}
+
+footer{
+    text-align: center;
+}
+
+.universal{
+    height: 300px;
+    object-fit:contain;
+
+}
